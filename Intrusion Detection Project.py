@@ -9,6 +9,7 @@ import random
 
 
 print("Welcome To Super_Nova System")
+print("This project is an demonstrative approach to make a defense system against cyber attackers ")
 
 #simpledialog.askstring(title="Test",prompt="Welcome to SUPERNOVA Systems")
 
